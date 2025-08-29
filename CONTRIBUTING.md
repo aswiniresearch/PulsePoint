@@ -11,8 +11,8 @@ This project and everyone participating in it is governed by our [Code of Conduc
 1. **Fork** the repository on GitHub
 2. **Clone** your fork locally
    ```bash
-   git clone https://github.com/your-username/ai-emr-platform.git
-   cd ai-emr-platform
+   git clone https://github.com/your-username/PulsePoint.git
+   cd PulsePoint
    ```
 3. **Set up** the development environment
    ```bash
@@ -40,9 +40,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 - Add comments where necessary to explain complex logic
 - Keep functions small and focused on a single responsibility
 
-## 📝 Commit Messages
 
-We follow the [Conventional Commits](https://www.conventionalcommits.org/) specification. Please format your commit messages as follows:
 
 ```
 <type>[optional scope]: <description>

@@ -2,7 +2,7 @@
 
 A modern, responsive web application for healthcare management, providing a comprehensive solution for medical practices and clinics. Built with Next.js, React, and Tailwind CSS.
 
-![Project Screenshot](/public/images/screenshot.png)
+
 
 ## ✨ Features
 
@@ -26,8 +26,9 @@ A modern, responsive web application for healthcare management, providing a comp
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/healthcare-management-system.git
-   cd healthcare-management-system
+  git remote add origin https://github.com/aswiniresearch/PulsePoint.git
+
+   cd PulsePoint
    ```
 
 2. Install dependencies
@@ -88,18 +89,13 @@ docker run -p 3000:3000 --env-file .env.local healthcare-management-system
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
-
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
 
 ---
 
 <div align="center">
-  Made with ❤️ by Your Team Name
+  Made with ❤️ by Aswini
 </div>
    npm run dev
    # or
@@ -149,18 +145,5 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Built with [Next.js](https://nextjs.org/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- Icons from [React Icons](https://react-icons.github.io/react-icons/)
-- Animations with [Framer Motion](https://www.framer.com/motion/).
-
-## Acknowledgments
-
-- Built on top of [OpenEMR](https://www.open-emr.org/)
-- Icons from [React Icons](https://react-icons.github.io/react-icons/)
